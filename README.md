@@ -5,7 +5,7 @@
 Uninstall If You Have It, This Tool Can Help YOU Detect Malware On Your Device!
 Its Only For PC/Laptops, And This Tool Is Open Source, But I Recommend Running
 AdvancedTaskMGR.exe Cuz Then You Dont Have To Install Py / The Library's For The
-Python Scripts If You Dont Trust The The exe Heres The Library's You Need:
+Python Scripts If You Dont Trust The exe Heres The Library's You Need:
 (pip install psutil watchdog) For My Version Of Python (Idk Which) Its
                (py -m pip install psutil watchdog)
 
